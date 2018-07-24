@@ -1,0 +1,2 @@
+Instance_Name##Instance_Name-PRIMARY##tcp://<url1.com>:<port>##<user>##<password>
+Instance_Name##Instance_Name-Secondary##tcp://<url2.com>:<port>##<user>##<password>
